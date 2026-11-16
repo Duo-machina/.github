@@ -1,10 +1,10 @@
 <div align="center">
 
-<h2>Pluggedspace</h2>
+<h2>Duomachina</h2>
 
 **Technology for complex systems.**
 
-Pluggedspace is a technology company that researches, builds, and deploys software, infrastructure, intelligent systems, and emerging technologies for organizations operating in complex environments.
+Duomachina is a technology company that researches, builds, and deploys software, infrastructure, intelligent systems, and emerging technologies for organizations operating in complex environments.
 
 [![Website](https://img.shields.io/badge/Website-pluggedspace.org-black?style=flat-square)](https://pluggedspace.org)
 [![Products](https://img.shields.io/badge/Products-explore-blue?style=flat-square)](https://pluggedspace.org/products)
@@ -34,7 +34,7 @@ The specific technologies we work on will change. **The problems we choose to so
 
 ## Products
 
-Pluggedspace currently develops independent products and platforms for intelligent systems and complex operations.
+Duomachina currently develops independent products and platforms for intelligent systems and complex operations.
 
 ### Atlas
 
@@ -142,7 +142,7 @@ Our principles remain consistent regardless of the specific technology:
 
 ---
 
-## Explore Pluggedspace
+## Explore Duomachina
 
 | Area            | Explore                                            |
 | --------------- | -------------------------------------------------- |
@@ -158,7 +158,7 @@ Our principles remain consistent regardless of the specific technology:
 
 <div align="center">
 
-### Pluggedspace
+### Duomachina
 
 **Research. Build. Deploy.**
 
